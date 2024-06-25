@@ -4,11 +4,6 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "actionApplication": [
-                {
-                    "@id": "#ChameleonJupyterLab"
-                }
-            ],
             "author": [
                 {
                     "@id": "#author1"
