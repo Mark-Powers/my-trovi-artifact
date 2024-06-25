@@ -11,9 +11,9 @@
             ],
             "datePublished": "2024-06-07T20:12:01+00:00",
             "description": "My long description..",
-            "disambiguatingDescription": "short desc.",
-            "keywords": "experiment, chameleon",
-            "name": "My Trovi Artifact"
+            "disambiguatingDescription": "short desc. that is updated",
+            "keywords": "experiment, chameleon, example",
+            "name": "My Trovi Artifact Update"
         },
         {
             "@id": "trovi.json",
