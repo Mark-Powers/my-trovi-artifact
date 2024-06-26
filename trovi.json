@@ -9,11 +9,16 @@
                     "@id": "#author1"
                 }
             ],
+            "actionApplication": [
+                {
+                    "@id": "#ChameleonJupyterLab"
+                }
+            ],
             "datePublished": "2024-06-07T20:12:01+00:00",
             "description": "My long description..",
             "disambiguatingDescription": "short desc. that is updated",
             "keywords": "experiment, chameleon, example",
-            "name": "My Trovi Artifact Update 3"
+            "name": "My Trovi Artifact Update 4"
         },
         {
             "@id": "trovi.json",
@@ -36,8 +41,8 @@
             "@id": "#ChameleonJupyterLab",
             "@type": "SoftwareApplication",
             "name": "Chameleon JupyterLab",
-            "trovi_arguments": "{}",
-            "trovi_type": "jupyterhub",
+            "trovi_arguments": "{\"node_type\":\"compute_skylake\"}",
+            "trovi_type": "isolated_jupyter",
             "url": "https://jupyter.chameleoncloud.org/"
         }
     ]
