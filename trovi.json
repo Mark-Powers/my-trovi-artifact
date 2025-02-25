@@ -33,7 +33,7 @@
         {
             "@id": "#author1",
             "@type": "Person",
-            "affiliation": "University of Chicago",
+            "affiliation": "The University of Chicago",
             "name": "Mark Powers",
             "email": "markpowers@uchicago.edu"
         },
