@@ -1,4 +1,4 @@
-# My artifact
+# My Trovi artifact
 
 This is my really cool experiment example.
 
