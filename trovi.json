@@ -18,7 +18,7 @@
             "description": "This Trovi artifact is for demonstrating how to import from GitHub for the Chameleon blog.",
             "disambiguatingDescription": "A demonstration artifact.",
             "keywords": "example",
-            "name": "Mark's Trovi Artifact"
+            "name": "Mark's demo Trovi Artifact"
         },
         {
             "@id": "trovi.json",
